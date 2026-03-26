@@ -75,7 +75,8 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username-dutrathiago&show_icon-true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/dutrathiago/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutrathiago&theme=react-dark)](https://github.com/dutrathiago/github-readme-activity-graph)
+
 
 ---
 

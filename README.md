@@ -25,6 +25,10 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
   <a href="https://www.tiktok.com/@th.dutraa_">
     <img src="https://img.shields.io/badge/TikTok-@th.dutra-000000?style=for-the-badge&logo=tiktok" />
   </a>
+    </a>
+  <a href="https://www.linkedin.com/in/thiago-dutra-de-oliveira-53182130b">
+    <img src="https://img.shields.io/badge/Linkedin-@th.dutra-000000?style=for-the-badge&logo=Linkedin" />
+  </a>
 </p>
 
 ---
@@ -70,10 +74,7 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dutrathiago&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutrathiago&layout=compact&theme=tokyonight" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username-dutrathiago&show_icon-true)
 
 ---
 

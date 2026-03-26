@@ -27,7 +27,7 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
   </a>
     </a>
   <a href="https://www.linkedin.com/in/thiago-dutra-de-oliveira-53182130b">
-    <img src="https://img.shields.io/badge/Linkedin-@th.dutra-000000?style=for-the-badge&logo=Linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-thiago-dutra-de-oliveira-000000?style=for-the-badge&logo=Linkedin" />
   </a>
 </p>
 

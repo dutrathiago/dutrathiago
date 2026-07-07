@@ -16,8 +16,8 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/dutrathiago">
-    <img src="https://img.shields.io/badge/GitHub-dutrathiago-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/dutrathiagodev">
+    <img src="https://img.shields.io/badge/GitHub-dutrathiagodev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/dutrathiago.dev/">
     <img src="https://img.shields.io/badge/Instagram-@dutrathiago.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />

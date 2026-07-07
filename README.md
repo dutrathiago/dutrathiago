@@ -19,11 +19,11 @@ I have experience with **HTML, CSS, and JavaScript**, and I’m improving my ski
   <a href="https://github.com/dutrathiago">
     <img src="https://img.shields.io/badge/GitHub-dutrathiago-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/th.dutraa_">
-    <img src="https://img.shields.io/badge/Instagram-@th.dutraa_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/dutrathiago.dev/">
+    <img src="https://img.shields.io/badge/Instagram-@dutrathiago.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@th.dutraa_">
-    <img src="https://img.shields.io/badge/TikTok-@th.dutra-000000?style=for-the-badge&logo=tiktok" />
+  <a href="https://www.tiktok.com/@dutrathiago.dev">
+    <img src="https://img.shields.io/badge/TikTok-@dutrathiago.dev-000000?style=for-the-badge&logo=tiktok" />
   </a>
     </a>
   <a href="https://www.linkedin.com/in/thiago-dutra-de-oliveira-53182130b">

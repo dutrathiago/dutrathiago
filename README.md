@@ -1,91 +1,22 @@
-# Hi 👋, I'm Thiago Dutra
+# Thiago Dutra
 
-🚀 **Information Systems Student | JavaScript & Python**  
-🇧🇷 Brazil
+**`Fullstack & Mobile Developer`**
 
-## 👨‍💻 About Me
-
-I’m a **technology student** focused on **web development and modern applications**.
-
-Currently, I’m developing a **scheduling system** using **React, Next.js, Node.js, and NestJS**, applying **clean code and best practices**.
-
-I have experience with **HTML, CSS, and JavaScript**, and I’m improving my skills in **Python and MySQL**, aiming to turn ideas into real solutions.
+Software Development Intern at Fteam and technology enthusiast studying ADS, GTI, and Computer Networks at Adventist Campus ANP. Focused on building modern web and mobile applications using Flutter, React, Next.js, and Node.js. Passionate about continuous learning, solving practical problems, and delivering scalable, user-centric solutions.
 
 ---
 
-## 🌐 Where to find me
+### 🧰 Languages and Tools
 
-<p align="left">
-  <a href="https://github.com/dutrathiagodev">
-    <img src="https://img.shields.io/badge/GitHub-dutrathiagodev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/dutrathiago.dev/">
-    <img src="https://img.shields.io/badge/Instagram-@dutrathiago.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@dutrathiago.dev">
-    <img src="https://img.shields.io/badge/TikTok-@dutrathiago.dev-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-    </a>
-  <a href="https://www.linkedin.com/in/thiago-dutra-de-oliveira-53182130b">
-    <img src="https://img.shields.io/badge/LinkedIn-ThiagoDutra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
----
-
-## 🧠 What I Do
-
-- 🏗️ **Web Application Development**  
-- ⚡ **Continuous Learning & Performance Improvement**  
-- 🧩 **Clean Code & Best Practices**  
-- 🔐 **API Development & Authentication Concepts**  
-- 💻 **React, Next.js, Node.js & NestJS Projects**  
-- 🌐 **HTML, CSS & JavaScript Websites**  
-- 🗄️ **MySQL Databases**  
-- 🚀 **Building Real Projects & Growing as a Developer**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### DevOps & Tools
-
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username-dutrathiagodev&show_icon-true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dutrathiagodev&theme=react-dark)](https://github.com/dutrathiagodev/github-readme-activity-graph)
-
-
----
-
-## 🚀 Philosophy
-
-> _"I’m not just learning to code.  
-> I’m building skills to create real solutions and grow as a developer."_  
-
----
-
-⭐ If you like my projects, consider starring a repository  
-🤝 Open to collaborations, learning opportunities, and new ideas  
+<br />

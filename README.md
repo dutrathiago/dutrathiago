@@ -2,7 +2,7 @@
 
 **`Fullstack & Mobile Developer`**
 
-Software Development Intern at Fteam and technology enthusiast studying ADS, GTI, and Computer Networks at Adventist Campus ANP. I write clean, reusable code using Flutter, React, Next.js, and Node.js, while utilizing Azure DevOps for efficient workflows. Driven by curiosity, I enjoy collaborating with peers, sharing knowledge, and devising original solutions for everyday technical challenges.
+Estagiário de Desenvolvimento de Software na Fteam, cursando ADS, GTI e Redes de Computadores na Faculdade Adventista do Paraná. Desenvolvo código de qualidade e reutilizável utilizando Flutter, React, Node.js e postgreSQL, além de utilizar o Azure DevOps para otimizar os fluxos de trabalho. Movido pela curiosidade, gosto de colaborar com colegas, compartilhar conhecimento e criar soluções originais para desafios técnicos do dia a dia.
 
 --- 
 

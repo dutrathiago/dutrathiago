@@ -1,8 +1,8 @@
-# Thiago Dutra
+# Hello, I'm Thiago Dutra
 
-**`Fullstack & Mobile Developer`**
+**`Software Engineer`**
 
-Estagiário de Desenvolvimento de Software na Fteam, cursando ADS, GTI e Redes de Computadores na Faculdade Adventista do Paraná. Desenvolvo código de qualidade e reutilizável utilizando Flutter, React, Node.js e postgreSQL, além de utilizar o Azure DevOps para otimizar os fluxos de trabalho. Movido pela curiosidade, gosto de colaborar com colegas, compartilhar conhecimento e criar soluções originais para desafios técnicos do dia a dia.
+Desenvolvedor Backend e Flutter, atualmente cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por desenvolvimento de software e gosto de atuar em ambientes dinâmicos, onde posso aprender, evoluir e enfrentar novos desafios. Tenho o compromisso de buscar constantemente crescimento profissional, explorando novas tecnologias e metodologias por meio de cursos, literatura e networking. Atualmente, trabalho na FTeam, referência em desenvolvimento Flutter no Brasil, onde tenho a oportunidade de aprimorar minhas habilidades e contribuir para projetos reais.
 
 --- 
 
